@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15756766448",
+    "project_id": "marketplace-caeae",
+    "storage_bucket": "marketplace-caeae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15756766448:android:485d7a58fb578243f7a635",
+        "android_client_info": {
+          "package_name": "com.example.soft_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15756766448-h4abqtfcqulhg302lq9iqmsnbqh79b8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDi4qUXSf_iUJkt6di9VNYrX_A9pgRSb0Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15756766448-h4abqtfcqulhg302lq9iqmsnbqh79b8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
