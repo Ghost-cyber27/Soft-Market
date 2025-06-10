@@ -1,5 +1,5 @@
 # Soft-Market
-This is an E-Commerce flutter Mobile application based on android only. This application sells digital product such as software e.g Websites, desktop applications
+This is an E-Commerce Mobile application based on android only. This application sells digital product such as software e.g Websites, desktop applications
 Mobile application and project research.
 It has a Authencation page such as the Login and Sign up pages 
 It has the HomePage which display the product images and names
